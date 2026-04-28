@@ -8,7 +8,7 @@ A fun and interactive quiz web app with five different questions — built with 
 
 ## 🔗 Live Demo
 
-👉 [View Live] 
+👉 [View Live] https://wwwquizapp.netlify.app/
 
 ---
 
